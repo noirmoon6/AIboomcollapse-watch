@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-22T20:36:01.197545",
+  "timestamp": "2026-06-23T19:51:53.359566",
   "items": {
     "DGS10": {
       "name": "10Y 국채금리",
@@ -29,7 +29,7 @@
     },
     "BAMLH0A0HYM2": {
       "name": "HY 스프레드",
-      "value": 2.66,
+      "value": 2.65,
       "unit": "%",
       "status": 0,
       "threshold_bands": [
@@ -68,7 +68,7 @@
     },
     "T10YIE": {
       "name": "기대인플레",
-      "value": 2.25,
+      "value": 2.23,
       "unit": "%",
       "status": 0,
       "threshold_bands": [
@@ -81,7 +81,7 @@
     },
     "VIX": {
       "name": "VIX",
-      "value": 17.280000686645508,
+      "value": 19.389999389648438,
       "unit": "pt",
       "status": 1,
       "threshold_bands": [
