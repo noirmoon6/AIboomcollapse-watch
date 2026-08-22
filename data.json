@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-08-21T18:24:15.290870",
+  "timestamp": "2026-08-22T18:17:13.259480",
   "items": {
     "DGS10": {
       "name": "10Y 국채금리",
-      "value": 4.65,
+      "value": 4.69,
       "unit": "%",
       "status": 2,
       "threshold_bands": [
@@ -81,7 +81,7 @@
     },
     "VIX": {
       "name": "VIX",
-      "value": 15.289999961853027,
+      "value": 15.130000114440918,
       "unit": "pt",
       "status": 1,
       "threshold_bands": [
