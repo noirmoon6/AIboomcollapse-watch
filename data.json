@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-10-14T21:08:23.047000",
+  "timestamp": "2026-10-15T20:46:20.095763",
   "items": {
     "DGS10": {
       "name": "10Y 국채금리",
-      "value": 5.21,
+      "value": 5.19,
       "unit": "%",
       "status": 3,
       "threshold_bands": [
@@ -29,7 +29,7 @@
     },
     "BAMLH0A0HYM2": {
       "name": "HY 스프레드",
-      "value": 3.16,
+      "value": 3.25,
       "unit": "%",
       "status": 0,
       "threshold_bands": [
@@ -42,7 +42,7 @@
     },
     "BAMLC0A0CM": {
       "name": "IG 스프레드",
-      "value": 0.83,
+      "value": 0.84,
       "unit": "%",
       "status": 0,
       "threshold_bands": [
@@ -55,7 +55,7 @@
     },
     "DFII10": {
       "name": "10Y 실질금리",
-      "value": 2.88,
+      "value": 2.84,
       "unit": "%",
       "status": 3,
       "threshold_bands": [
@@ -81,7 +81,7 @@
     },
     "VIX": {
       "name": "VIX",
-      "value": 16.8700008392334,
+      "value": 16.459999084472656,
       "unit": "pt",
       "status": 1,
       "threshold_bands": [
