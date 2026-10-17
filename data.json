@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T20:19:13.903704",
+  "timestamp": "2026-10-17T19:54:16.499486",
   "items": {
     "DGS10": {
       "name": "10Y 국채금리",
@@ -16,7 +16,7 @@
     },
     "T10Y2Y": {
       "name": "10Y-2Y 금리차",
-      "value": 0.33,
+      "value": 0.35,
       "unit": "%p",
       "status": 1,
       "threshold_bands": [
@@ -68,7 +68,7 @@
     },
     "T10YIE": {
       "name": "기대인플레",
-      "value": 2.32,
+      "value": 2.35,
       "unit": "%",
       "status": 1,
       "threshold_bands": [
@@ -81,9 +81,9 @@
     },
     "VIX": {
       "name": "VIX",
-      "value": 20.139999389648438,
+      "value": 19.989999771118164,
       "unit": "pt",
-      "status": 2,
+      "status": 1,
       "threshold_bands": [
         15,
         20,
@@ -93,6 +93,6 @@
       "weight": 2
     }
   },
-  "composite": 44,
+  "composite": 40,
   "verdict": "주의"
 }
